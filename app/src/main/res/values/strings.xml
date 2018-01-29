@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AB2018ReservationSystem</string>
+
+    <string-array name="koltuk_harf">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+    </string-array>
+
+    <string-array name="koltuk_rakam">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string name="rezervasyon_baslik">Rezervasyon Bilgileri</string>
+    <string name="rezervasyon_btn">Rezervasyon Yap</string>
+</resources>

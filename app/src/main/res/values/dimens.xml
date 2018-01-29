@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeExtraLarge">20sp</dimen>
+    <item name="match_parent" format="integer" type="dimen">-1</item>
+    <item name="wrap_content" format="integer" type="dimen">-2</item>
+    <dimen name="txt_width">@dimen/match_parent
+    </dimen>
+    <dimen name="txt_height">@dimen/wrap_content
+    </dimen>
+    <dimen name="textSizeLarge">18sp</dimen>
+</resources>
